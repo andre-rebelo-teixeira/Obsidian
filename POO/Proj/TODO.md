@@ -18,6 +18,7 @@ Discover how do we decide the time the event will be fulfilled
 - [x] Epidemics are killing everyone
 - [x] Clonning of the object is not really clonning, just changing the name 
 > Need to create constructors for Patrol, individual, planetary system
+ - [ ] Convert population to be a simulation object interface, to be able to make the generic Eventf fully generic 
 
 
 ## Test to confirm
